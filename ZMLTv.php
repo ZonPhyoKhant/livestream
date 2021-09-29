@@ -1,0 +1,33 @@
+<?php
+echo '<!DOCTYPE html>';
+echo '<html lang="en">';
+echo '<body style="background-color:#121312;">';
+echo '';
+echo '<head>';
+echo '<center>';
+echo '<img src="https://www.linkpicture.com/q/ZMLTv.png" width="130px" height="80px" />';
+echo '</center>';
+echo '</head>';
+echo '<marquee bgcolor="#b4f207">M3U URL (ရက်အကန့်အသက်မရှိ 5000ks)ဖြင့် Messenger ကိုနှိပ်၍ စာပို့ဝယ်ယူနိူင်ပါကြောင်း အသိပေးကြေငြာအပ်ပါသည်။</marquee>';
+echo '';
+echo '<center>';
+echo '<div class="btn-group">';
+echo '<button><a href='https://zonphyokhant.github.io/livestream/ZMLTv-3.html' target='_self'>';
+echo '<input type='button' style='padding-left:30px;padding-top:10px;padding-right:30px;padding-bottom:10px;margin-left:10px;margin-top:10px;margin-right:10px;margin-bottom:10px;background-color:#0000ff;color:#ffff00;border-left-width:1px;border-top-width:1px;border-right-width:1px;border-bottom-width:1px;border-color:#d5d5d5;border-radius:5px;cursor:pointer' value='𝙇𝙞𝙣𝙠 3' onMouseOver=this.style.backgroundColor='#FFFFFF';this.style.color='#1b90bb';this.style.borderColor='#d5d5d5' onMouseOut=this.style.backgroundColor='#0000ff';this.style.color='#ffff00';this.style.borderColor='#d5d5d5' />';
+echo '</a></button>';
+echo '<button><a href='https://zonphyokhant.github.io/livestream/ZMLTv-2.html' target='_self'>';
+echo '<input type='button' style='padding-left:30px;padding-top:10px;padding-right:30px;padding-bottom:10px;margin-left:10px;margin-top:10px;margin-right:10px;margin-bottom:10px;background-color:#0000ff;color:#ffff00;border-left-width:1px;border-top-width:1px;border-right-width:1px;border-bottom-width:1px;border-color:#d5d5d5;border-radius:5px;cursor:pointer' value='𝙇𝙞𝙣𝙠 2' onMouseOver=this.style.backgroundColor='#FFFFFF';this.style.color='#1b90bb';this.style.borderColor='#d5d5d5' onMouseOut=this.style.backgroundColor='#0000ff';this.style.color='#ffff00';this.style.borderColor='#d5d5d5' />';
+echo '</a></button>';
+echo '<button><a href='https://zonphyokhant.github.io/livestream/ZMLTv.html' target='_self'>';
+echo '<input type='button' style='padding-left:30px;padding-top:10px;padding-right:30px;padding-bottom:10px;margin-left:10px;margin-top:10px;margin-right:10px;margin-bottom:10px;background-color:#0000ff;color:#ffff00;border-left-width:1px;border-top-width:1px;border-right-width:1px;border-bottom-width:1px;border-color:#d5d5d5;border-radius:5px;cursor:pointer' value='𝙇𝙞𝙣𝙠 1' onMouseOver=this.style.backgroundColor='#FFFFFF';this.style.color='#1b90bb';this.style.borderColor='#d5d5d5' onMouseOut=this.style.backgroundColor='#0000ff';this.style.color='#ffff00';this.style.borderColor='#d5d5d5' />';
+echo '</a></button>';
+echo '</div>';
+echo '</center>';
+echo '';
+echo '';
+echo '<iframe src="https://goalarab.com/" frameborder="0" allowfullscreen style="height:100%;width:100%;position:absolute;top:12%;left:0px;right:0px;bottom:0px;" height="100%" width="100%"></iframe>';
+echo '';
+echo '</body>';
+echo '</html>';
+echo '';
+?>
